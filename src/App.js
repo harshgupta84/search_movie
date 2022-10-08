@@ -22,7 +22,7 @@ const [searchTerm ,setSearchTerm]=useState('')
 
   return (
     <div className="app">
-      <h1>CINEMIND</h1>
+      <h1>CIN-INFO</h1>
 
       <div className="search">
         <input

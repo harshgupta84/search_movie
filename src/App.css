@@ -14,7 +14,8 @@
 
 body {
   font-family: var(--font-roboto);
-  background-color: #212426;
+  
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 
 .app {
@@ -50,7 +51,7 @@ h1 {
 
   padding: 1.5rem 1.75rem;
   border-radius: 3rem;
-  background: #1f2123;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
   -webkit-box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
   box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
 }
@@ -64,8 +65,8 @@ h1 {
   padding-right: 1rem;
 
   outline: none;
-  color: #a1a1a1;
-  background: #1f2123;
+  color: #0e0e0e;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
 }
 
 .search img {
